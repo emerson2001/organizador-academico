@@ -8,7 +8,7 @@ https://...
 
 ## Protótipo
 
-https://www.figma.com/...
+https://www.figma.com/file/O5WrJonWjNxTtfVePxXOuu/Organizador-Academico?type=design&node-id=0%3A1&mode=design&t=tcZczfb0nqm8uANF-1
 
 ## Checklist | Indicadores de Desempenho (ID) dos Resultados de Aprendizagem (RA)
 
