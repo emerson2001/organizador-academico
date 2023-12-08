@@ -1,0 +1,9 @@
+body{
+    background-image: url(https://res.cloudinary.com/dedb9a85r/image/upload/v1701983316/nnbewd8kkrweluybsadg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#logo {
+    width: 2em;
+}
